@@ -1,0 +1,1 @@
+export EDUCATIVE_LIVE_VM_URL="https://ed-6612307955679232_dc.educative.run"
